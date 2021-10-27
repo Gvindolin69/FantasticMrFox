@@ -14,6 +14,8 @@ import java.util.Scanner;
 public class FoxMethods {
     private Properties properties;
 
+
+
     public FoxMethods() {
         this.properties = new Properties();
     }
